@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FaizanKeepApp/static/css/main.1480dcf6.css",
+    "main.js": "/FaizanKeepApp/static/js/main.4c01773f.js",
+    "static/media/faizan.png": "/FaizanKeepApp/static/media/faizan.855f1696c5292039fcd7.png",
+    "index.html": "/FaizanKeepApp/index.html",
+    "main.1480dcf6.css.map": "/FaizanKeepApp/static/css/main.1480dcf6.css.map",
+    "main.4c01773f.js.map": "/FaizanKeepApp/static/js/main.4c01773f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1480dcf6.css",
+    "static/js/main.4c01773f.js"
+  ]
+}
